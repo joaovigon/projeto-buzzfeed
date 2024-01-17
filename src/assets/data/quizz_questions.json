@@ -1,0 +1,52 @@
+{
+  "title":"Você tem aptidão para ser BACK-END ou FRONT-END ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é o seu estilo de trabalho ?",
+      "options":[
+        {"id": 1, "name":"Prefiro lidar com a lógica, estrutura e dados.", "alias":"A"},
+        {"id": 2, "name":"Gosto de trabalhar com design, interatividade e experiência do usuário.", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual Linguagem de programação você escolheria?",
+      "options":[
+        {"id": 1, "name":"Tenho afinidade com linguagens como Java, Python ou C#.", "alias":"A"},
+        {"id": 2, "name":" Me sinto mais confortável com HTML, CSS, JavaScript.", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":3,
+      "question": "Desenvolvimento de Recursos Visuais:",
+      "options":[
+        {"id": 2, "name":"Adoro criar layouts atraentes e interativos.", "alias":"B"},
+        {"id": 1, "name":" Minha paixão é implementar funcionalidades complexas nos bastidores.", "alias":"A"}
+
+      ]
+    },
+    {
+      "id":4,
+      "question": "Testes e Debugging:",
+      "options":[
+        {"id": 1, "name":"Gosto de identificar e corrigir erros no código.", "alias":"A"},
+        {"id": 2, "name":"Aprecio garantir que a interface do usuário funcione de maneira impecável.", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Interesse em Novas Tecnologias:",
+      "options":[
+        {"id": 1, "name":"Fico animado(a) com as últimas tendências em design e interatividade.", "alias":"B"},
+        {"id": 2, "name":" Me empolgo com servidores, bancos de dados e arquiteturas complexas.", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Sua afinidade com lógica, estrutura e soluções técnicas sugere uma aptidão para o desenvolvimento back-end.!",
+    "B": "Suas preferências por design, interatividade e experiência do usuário indicam uma possível vocação para o desenvolvimento front-end."
+  }
+}
